@@ -1,0 +1,15 @@
+/*Q1. WAP to create POJO class name as Book with field id,name and price and create 
+5 objects of book class using array of objects and arrange all books in descending 
+order by using its price.*/
+import java.util*;
+class Book 
+{
+
+}
+public class BookApp
+{
+
+}
+
+
+

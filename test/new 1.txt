@@ -1,0 +1,40 @@
+--arm strong ---1^3+5^3+3^3==153
+--strong --145=1!+4!+5!==145
+--factorial ---5!=120
+--prime 2,3,5,7,11,13,17,19,23
+--duck  ---1030,302,50
+
+--abstract interface pattern
+--pojo class 
+--var argu
+--interface
+---abstaract
+--array
+bootstrap template class
+
+   ---tochar array
+--string array java
+   ---scanner class --notebook
+	
+ ----pattern  looping
+ array string consturctor class object 
+ inheritance abstraction interface dynamic polymorphism
+	bootstrap       css       html
+	  class      property     tags
+	  
+	  
+	  -----english subjective coommon proper objective noun----
+	 ---- aptitude
+	  
+	  
+	  
+	 -- perfect number =divsor sum == number /6/28
+	  --factorial number =5!=5*4*3*2*1=120
+	 -- palindrome number=121/12321
+	 -- strong number =145=1!+4!+5!=145   2/145/1
+	 -- duck number =10/20/3002....
+	 -- arm strong=153=1^3+5^3+3^3==153
+	  --leap year=year%100!=0 && year%400==0
+	  
+	  dynamic polymorphism and losse copuling is achieve using abstraction
+	  ----Do dynamic polymorphism program

@@ -1,0 +1,21 @@
+Abhishek GhadageRohan Patil
+Rahul shelake
+int read(char[],int offset,int length): this method help us to read specified length of data from file
+
+FileReader class 
+Constructor of FileReader class
+FileReader(String path): this constructor can accept file path using a string format.
+ FileReader(File path): this constructor can accept file path using a file class reference
+package org.techhub;
+import java.io.*;
+public class ReadFileApp {
+	public static void main(String[] args) throws IOException,InterruptedException{
+		FileReader fr = new FileReader("D:\\OCT2022\\JAVA\\resume\\second.txt");
+		int data;
+		while((data=fr.read())!=-1) {
+			char ch=(char)data;
+			System.out.print(ch);
+			Thread.sleep(100);
+		}
+
+Abhi pranjaliA
